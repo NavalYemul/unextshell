@@ -33,4 +33,9 @@ df1.write\
 
 # COMMAND ----------
 
+# MAGIC %sql
+# MAGIC select count(*) from json.bronze
+
+# COMMAND ----------
+
 
